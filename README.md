@@ -2,6 +2,8 @@
 
 Code and process from: https://docs.docker.com/get-started/part2/#apppy
 
+Docker public repository: https://hub.docker.com/r/coelomate/docker-tutorial-one/
+
 # Build command:
 
 docker build -t friendlyhello .
